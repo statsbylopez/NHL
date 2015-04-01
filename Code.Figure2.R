@@ -79,7 +79,7 @@ nhl[nhl$DaysFromEnd>188,]$DaysFromEnd<-188
 
 nhl$DayofSeason<-189-nhl$DaysFromEnd
 
-###### NOTE: First run the 538 theme on from below ######
+###### Graph using ggplot2
 
 p<-qplot(DayofSeason, as.numeric(OT), lty=PS,data = nhl,geom="smooth",size=1.4,
       method="glm",family="binomial", formula = y ~ ns(x, 2)) +  scale_x_continuous("Day of the Season")+
