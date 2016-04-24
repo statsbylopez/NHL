@@ -1,9 +1,2 @@
-###This file contains the code for the graphs appearing in the FiveThirtyEight article by Michael Lopez and Noah Davis
+###This file contains the code for the hockey articles by Michael Lopez.
 
-
-
-####The article can be found at FiveThirtyEight.com
-
-
-
-#####Questions? Email mlopez1@skidmore.edu
