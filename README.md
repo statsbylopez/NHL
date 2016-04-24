@@ -1,2 +1,2 @@
-###This file contains the code for the hockey articles by Michael Lopez.
+###This file contains the code for hockey articles by Michael Lopez.
 
